@@ -6,11 +6,8 @@ export default defineConfig({
   base: "/material-dashboard-shadcn-vue/",
   plugins: [vue()],
   server: {
-    host: "0.0.0.0",
-    port: 5000,
-    hmr: {
-      clientPort: 443,
-    },
+    host: '0.0.0.0',
+    port: 5000
   },
   preview: {
     host: "0.0.0.0",
