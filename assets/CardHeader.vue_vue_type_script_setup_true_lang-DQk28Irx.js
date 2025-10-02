@@ -1,0 +1,1 @@
+import{c as e}from"./CardContent.vue_vue_type_script_setup_true_lang-jFFcCi3B.js";import{d as a,a as o,x as r,u as l,y as n,o as p}from"./index-Dnko7Dyw.js";const d=a({__name:"CardHeader",props:{class:{}},setup(c){return(s,t)=>(p(),o("div",{class:r(l(e)("flex flex-col space-y-1.5 p-3",s.$props.class))},[n(s.$slots,"default")],2))}});export{d as _};
